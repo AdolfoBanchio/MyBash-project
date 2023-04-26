@@ -1,0 +1,20 @@
+.gitignore
+.depend
+.vscode/
+.gdb_history
+*.log
+
+# Make and build files
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
+#test files 
+runner-command
+runner-parsing
+runner
+leaktest
+#ejecutables
+mybash
